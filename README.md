@@ -29,7 +29,7 @@ __________________________________________
 
 
 
-Full Script Pastebin [ Credits to - OCT1 ]
-_____________________________________________
 [Script Pastebin
-](https://github.com/efsefesf/Recoil-Scripts-Logitech/blob/742f0c39b9167f4817af0d88bcf294d39013f166/Script%20Pastebin)
+](https://github.com/efsefesf/Recoil-Scripts-Logitech/blob/742f0c39b9167f4817af0d88bcf294d39013f166/Script%20Pastebin)   [ Credits to - OCT1 ]
+_____________________________________________ 
+
